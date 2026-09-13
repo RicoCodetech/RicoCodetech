@@ -27,10 +27,15 @@ En la universidad, he tenido la oportunidad de realizar varios trabajos y práct
 
 ## ✨ **Proyectos Destacados**
 
-### [Proyecto: Inventario](https://github.com/RicoCodetech/inventario)
-Proyecto personal que implementa un sistema de inventario básico para bebidas alcohólicas. Permite realizar operaciones CRUD integradas con bases de datos MySQL, demostrando el manejo y conexión entre un back-end modular y una base de datos. El sistema cuenta con una interfaz en línea de comandos para interactuar con las funcionalidades, aunque está diseñado como un proyecto back-end.
-- 🔹 **Tecnologías:** Java, MySQL
-- 🌟 **Características clave:** Operaciones CRUD, conexión con bases de datos, diseño modular.
+### [Proyecto: Inventario](https://github.com/RicoCodetech/inventario)                                                                                                      
+Proyecto de back-end que implementa un sistema de inventario genérico para una tienda. Permite realizar operaciones CRUD sobre                                              
+los productos con MySQL como almacenamiento y una capa de datos modular e independiente (interfaz + implementación). La    
+aplicación cuenta con una interfaz en línea de comandos para interactuar con las funcionalidades, aunque está diseñado como un            
+proyecto back-end.                                                                                                                         
+- 🔹 **Tecnologías:** Java, MySQL, Maven, JUnit 5, H2                                                                                        
+- 🌟 **Características clave:** Operaciones CRUD, conexión con bases de datos (JDBC), diseño modular, seguridad frente a        
+inyección SQL con PreparedStatement, 10 tests unitarios de la capa de datos con H2 en memoria, pipeline de CI con GitHub
+Actions. 
 
 ### [Practica: Estructuras de datos en EPED](https://github.com/RicoCodetech/Estructuras_de_datos)
 Práctica en estrategias de programación y estructuras de datos, trata de implementar una interfaz en dos estructuras distintas y calcular los costes empiricos. La primera consiste en crear una secuencia, que hemos llamado StockSequence.java, y la segunda implica la creación de un árbol general, que hemos nombrado StockTree.java
