@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ![imagen banner](/img/banner.png) -->
 
-![imagen banner](/img/banner.png)
 
 
 ## 💫 Sobre mi:
@@ -46,6 +46,8 @@ Práctica en estrategias de programación y estructuras de datos, trata de imple
 Se requiere la implementación de un sistema integrado para una fábrica de muebles artesanales. Las funciones principales son el registro de clientes, mensajes entre cliente y comercial de la fabrica y gestion de trabajos de los artesanos con seguimiento.
 - 🔹 **Tecnologías:** Java
 - 🌟 **Características clave:** Programacion orientada a objetos
+
+
   
 
 
