@@ -46,11 +46,6 @@ Práctica en estrategias de programación y estructuras de datos, trata de imple
 Se requiere la implementación de un sistema integrado para una fábrica de muebles artesanales. Las funciones principales son el registro de clientes, mensajes entre cliente y comercial de la fabrica y gestion de trabajos de los artesanos con seguimiento.
 - 🔹 **Tecnologías:** Java
 - 🌟 **Características clave:** Programacion orientada a objetos
-
-### [Proyecto: Guia turistica](https://github.com/RicoCodetech/web_guia_moscu)
-El propósito principal del proyecto es crear una pagina web que sirva de guía a todos los viajeros que llegan a Moscú y buscan información breve y directa sobre como moverse de un lado a otro de la ciudad haciendo uso de los diferentes medios de transporte. se usaran las tecnologías de HTML, CSS y JavaScript y se planea que tenga la funcion de tienda online.
-- 🔹 **Tecnologías:** HTML5
-- 🌟 **Características clave:** Maquetacion frontend.
   
 
 
